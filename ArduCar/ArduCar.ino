@@ -1,7 +1,7 @@
 #include <Servo.h>
-#include "Motor.h"
-#include "Car.h"
-#include "Driver.h"
+#include "src/Motor.h"
+#include "src/Car.h"
+#include "src/Driver.h"
 
 // Car
 #define LeftMotorForwardPin 2
